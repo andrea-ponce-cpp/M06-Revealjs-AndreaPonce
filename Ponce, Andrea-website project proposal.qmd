@@ -1,0 +1,128 @@
+---
+title: "Andrea's Marketing Portfolio"
+subtitle: "Proposal Presentation"
+author: "Andrea Ponce"
+institute: "IBM 3202, Cal Poly Pomona"
+date: "today"
+format: 
+  revealjs:
+    theme: serif
+    width: 1600
+    height: 900
+    footer: Marketing Portfolio Project
+    transition: slide
+    transition-speed: default
+    incremental: false
+    toc: true
+    toc-depth: 1
+    slide-number: true
+    scrollable: true
+    smaller: true
+    code-fold: false
+    code-overflow: wrap
+    number-sections: false
+    number-depth: 5
+    embed-resources: true
+    css: styles.css
+editor: visual
+execute: 
+  echo: true
+  freeze: auto
+---
+
+# Home Page
+
+-   Introduction
+-   Personal statement
+-   Brief overview of my background
+-   Professional photo
+
+::: {.notes}
+Explain that this page will include a short biography, a professional photo, and a summary of my marketing interests.
+:::
+
+# Purpose
+
+This website will present my marketing projects, campaign performance results, and internship experience.^[Including examples and performance data from my second internship.]
+
+# Marketing Projects
+
+::: {.incremental}
+
+- Performance metrics
+- Internship marketing work
+- Real campaign results
+- Portfolio graphics
+
+:::
+
+# Dashboard
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+### Data Visualizations
+
+- Charts
+- Campaign performance
+
+:::
+
+::: {.column width="50%"}
+
+### Insights
+
+- Engagement metrics
+- Data insights
+- Examples from my second internship
+
+:::
+
+::::
+
+# Revealjs Presentation
+
+This section of the website would include presentations created using Quarto and Revealjs.
+
+::: {.fragment}
+Project proposal presentations
+:::
+
+::: {.fragment}
+Marketing analysis presentations
+:::
+
+::: {.fragment}
+Data visualization slides
+:::
+
+::: {.fragment}
+Research or case study presentations
+:::
+
+# Google Analytics
+
+This page would showcase my experience with Google Analytics and website data.
+
+::: {.fragment}
+- Traffic reports
+:::
+
+::: {.fragment}
+- Audience insights
+:::
+
+::: {.fragment}
+- Engagement metrics
+:::
+
+::: {.fragment}
+- Conversion analysis
+:::
+
+::: {.fragment}
+- Google Analytics certifications
+:::
+
+
