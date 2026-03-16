@@ -1,0 +1,11 @@
+.reveal h1, .reveal h2, .reveal h3 {
+  color: #2f4f4f;
+}
+
+.reveal p, .reveal li {
+  font-size: 1em;
+}
+
+.reveal .footer {
+  font-size: 0.6em;
+}
